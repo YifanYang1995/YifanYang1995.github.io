@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 - <font color="#ff8a65">Victoria University of Wellington (VUW)</font>  
-*School of Engineering and Computer Science*
+*School of Engineering and Computer Science*  
 **Graduate Research Assistant**  
 Jan 2025 - Present, Wellington, New Zealand
 
