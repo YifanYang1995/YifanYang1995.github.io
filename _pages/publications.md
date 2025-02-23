@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. [<font color="#81d4fa">L2O</font>, <font color="#f48fb1">JSP</font>]
+1. [<font color="#4fc3f7">L2O</font>, <font color="#f06292">JSP</font>]
 **Graph Assisted Offline-Online Deep Reinforcement Learning for Dynamic Workflow Scheduling**,  
 **Yifan Yang**, Gang Chen, Hui Ma, Cong Zhang, Zhiguang Cao, Mengjie Zhang.  
 *International Conference on Learning Representations* (**ICLR**), 2025.
