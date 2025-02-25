@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final-year PhD candidate in Computer Science at Victoria University of Wellington (VUW), supervised by [Prof. Aaron Chen](https://people.wgtn.ac.nz/aaron.chen), [Prof. Hui Ma](https://people.wgtn.ac.nz/hui.ma), and [Prof. Mengjie Zhang](https://people.wgtn.ac.nz/mengjie.zhang). 
 Prior to my Ph.D., I obtained my M.S. in Logistics Engineering from Central South University (CSU), supervised by [Prof. Jinjun Tang](https://faculty.csu.edu.cn/tangjinjun/en/index.htm). 
-I received the B.S. in Logistics Engineering from Shannxi University of Science & Technology, China.
+I received the B.Eng in Logistics Engineering from Shannxi University of Science & Technology, China.
 
 ## 💖 Research Interests
 My research centers on <font color="green"><b>Learning to Optimize (L2O)</b></font> with a focus on **Neural Combinatorial Optimization (NCO)** and **AI-driven decision-making frameworks**. I aim to bridge advanced machine learning techniques (e.g., Deep Reinforcement Learning and Graph Neural Networks) with challenging real-world optimization problems, particularly in **scheduling** and **timetabling** optimization. ☺️ Welcome contact me via [💌](mailto:yifanyang@ecs.vuw.ac.nz)(yifanyang [at] ecs [dot] vuw [dot] ac [dot] nz) for communication and collaboration. 
