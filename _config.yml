@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yifan Yang"
+description              : &description "Research Fellow at Nanyang Technological University"
 url                      : https://yifanyang1995.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yifanyang1995/yifanyang1995.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "16.jpg"
   name             : "Yifan Yang (杨一帆)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Computer Science at VUW"
-  location         : "New Zealand"
-  employer         : # "Red Brick University"
+  bio              : "Research Fellow at NTU"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
   uri              : # URL
-  email            : "yifanyang@ecs.vuw.ac.nz" 
+  email            : "yang.yifan@ntu.edu.sg"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

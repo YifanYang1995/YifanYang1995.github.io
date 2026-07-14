@@ -7,18 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in Computer Science at Victoria University of Wellington (VUW), supervised by [Prof. Aaron Chen](https://people.wgtn.ac.nz/aaron.chen), [Prof. Hui Ma](https://people.wgtn.ac.nz/hui.ma), and [Prof. Mengjie Zhang](https://people.wgtn.ac.nz/mengjie.zhang). 
-Prior to my Ph.D., I obtained my M.S. in Logistics Engineering from Central South University (CSU), supervised by [Prof. Jinjun Tang](https://faculty.csu.edu.cn/tangjinjun/en/index.htm). 
-I received the B.Eng in Logistics Engineering from Shannxi University of Science & Technology, China.
+I am a Research Fellow at Nanyang Technological University (NTU), Singapore, working with [Prof. Yew-Soon Ong](https://www3.ntu.edu.sg/home/asysong/home.html). I received my Ph.D. in Computer Science from Victoria University of Wellington (VUW) in June 2025, where I was supervised by [Prof. Aaron Chen](https://people.wgtn.ac.nz/aaron.chen), [Prof. Hui Ma](https://people.wgtn.ac.nz/hui.ma), and [Prof. Mengjie Zhang](https://people.wgtn.ac.nz/mengjie.zhang).
+
+Prior to my Ph.D., I obtained my M.S. in Logistics Engineering from Central South University (CSU), supervised by [Prof. Jinjun Tang](https://faculty.csu.edu.cn/tangjinjun/en/index.htm). I received my B.Eng. in Logistics Engineering from Shaanxi University of Science & Technology, China.
 
 ## 💖 Research Interests
-My research centers on <font color="green"><b>Learning to Optimize (L2O)</b></font> with a focus on **Neural Combinatorial Optimization (NCO)** and **AI-driven decision-making frameworks**. I aim to bridge advanced machine learning techniques (e.g., Deep Reinforcement Learning and Graph Neural Networks) with challenging real-world optimization problems, particularly in **scheduling** and **timetabling** optimization. ☺️ Welcome contact me via [💌](mailto:yifanyang@ecs.vuw.ac.nz)(yifanyang [at] ecs [dot] vuw [dot] ac [dot] nz) for communication and collaboration. 
-- **Artificial Intelligence:** Deep Reinforcement Learning, Evolutionary Computation
-- **Combinatorial Optimization:** Scheduling, Timetabling, Routing
-- **Applications:** Cloud Computing, Transportation, Logistics  
+My current research focuses on **AI for Intelligent Manufacturing**, with a particular interest in intelligent scheduling, optimization, and decision-making for complex manufacturing systems. I develop learning- and search-based approaches, including **Reinforcement Learning (RL)**, **Large Language Models (LLMs)**, and **Genetic Programming Hyper-Heuristics (GPHH)**, to improve the adaptivity, generalization, and efficiency of manufacturing decision-making.
+
+- **Artificial Intelligence:** Reinforcement Learning, Large Language Models, Evolutionary Computation, and Genetic Programming Hyper-Heuristics
+- **Optimization and Decision-Making:** Scheduling, Resource Allocation, and Learning to Optimize
+- **Applications:** Intelligent Manufacturing and Cloud Computing
+
+I welcome remote collaborations with researchers and practitioners working on related topics. Please feel free to contact me at [yang.yifan@ntu.edu.sg](mailto:yang.yifan@ntu.edu.sg).
 
 ## 🎉 News
-- *2025.01*: &nbsp; ["Graph Assisted Offline-Online Deep Reinforcement Learning for Dynamic Workflow Scheduling"](https://openreview.net/forum?id=4PlbIfmX9o) has been accepted at **ICLR 2025**. 
+- *2025.08*: &nbsp; Joined Nanyang Technological University (NTU), Singapore, as a Research Fellow, working with [Prof. Yew-Soon Ong](https://www3.ntu.edu.sg/home/asysong/home.html).
+- *2025.06*: &nbsp; Received my Ph.D. in Computer Science from Victoria University of Wellington (VUW).
+- *2025.01*: &nbsp; ["Graph Assisted Offline-Online Deep Reinforcement Learning for Dynamic Workflow Scheduling"](https://openreview.net/forum?id=4PlbIfmX9o) was accepted at **ICLR 2025**.
 
 <br>
 <br>
